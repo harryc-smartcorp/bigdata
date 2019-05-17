@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Cloudx\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\apache-log-parsing_2.10-0.0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\EntryPoint.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Cloudx\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com\cloudxlab\logparsing\EntryPoint.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\Utils$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Cloudx\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com\cloudxlab\logparsing\Utils$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Cloudx\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\classes\com\cloudxlab[0m
